@@ -1,0 +1,4 @@
+net stop OracleServiceORCL
+net stop OracleOraDb11g_home1TNSListener
+net stop OracleDBConsoleorcl
+isqlplusctl stop
